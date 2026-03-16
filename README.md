@@ -6,7 +6,7 @@ Komplett mit HTML, Tailwind CSS (via CDN) und Vanilla JavaScript erstellt. Kein 
 ## 🚀 Projektstruktur
 
 ```text
-matcha-mori-demo/
+MoriMatcha/
  ├ index.html       # Der Haupteinstiegspunkt mit Struktur und Stilen
  ├ content.json     # Alle Webseiteninhalte, Speisekarte und Einstellungen
  ├ images/          # Bilder-Ressourcen
