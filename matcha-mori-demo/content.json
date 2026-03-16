@@ -1,0 +1,127 @@
+{
+  "site_info": {
+    "name": "Matcha Mori",
+    "tagline": "Premium Japanischer Matcha im Herzen Berlins",
+    "description": "Erlebe den authentischen Geschmack von Kyoto. Wir servieren feinsten Matcha in zeremonieller Qualität, sorgfältig bezogen von familiengeführten Farmen in Uji, Japan."
+  },
+  "hero": {
+    "title": "Ein Moment Zen in Berlin",
+    "subtitle": "Entdecke handgemachten Matcha, traditionelles Wagashi und einen Ort zum Durchatmen.",
+    "button_text": "Zur Speisekarte"
+  },
+  "about": {
+    "heading": "Unsere Philosophie",
+    "text1": "Bei Matcha Mori glauben wir an die Kraft einer einfachen, achtsamen Pause. Unser Café ist als minimalistischer Rückzugsort konzipiert, an dem das schnelle Tempo Berlins auf die ruhige Tradition der japanischen Teekultur trifft.",
+    "text2": "Jede Schale Matcha wird frisch mit dem traditionellen Bambusbesen (Chasen) geschlagen, was die perfekte Balance aus Umami, leichter Süße und cremigem Schaum garantiert. Von unserer handverlesenen Keramik bis zum sanften Licht ist jedes Detail darauf ausgerichtet, dass du dein Mori (Wald) in der Stadt findest.",
+    "image": "images/cafe-interior.jpg"
+  },
+  "menu": [
+    {
+      "category": "Getränke",
+      "items": [
+        {
+          "name": "Usucha (Dünner Tee)",
+          "description": "Matcha in zeremonieller Qualität, aufgeschlagen mit heißem Wasser. Rein, umami, sanft.",
+          "price": "5,50 €"
+        },
+        {
+          "name": "Matcha Latte",
+          "description": "Premium Matcha mit aufgeschäumter Hafer- oder Sojamilch, leicht gesüßt mit Agave.",
+          "price": "6,50 €"
+        },
+        {
+          "name": "Hojicha Latte",
+          "description": "Gerösteter Grüntee mit Milch. Nussige Karamellnoten, wenig Koffein.",
+          "price": "6,00 €"
+        },
+        {
+          "name": "Yuzu Matcha Tonic",
+          "description": "Matcha auf spritziger Yuzu-Limonade. Erfrischend und belebend.",
+          "price": "7,00 €"
+        }
+      ]
+    },
+    {
+      "category": "Süßspeisen",
+      "items": [
+        {
+          "name": "Matcha Biskuitrolle",
+          "description": "Leichter Biskuitkuchen gefüllt mit reicher Matcha-Creme.",
+          "price": "6,50 €"
+        },
+        {
+          "name": "Mochi Mix",
+          "description": "Drei saisonale Daifuku Mochi (mit rote Bohnen-, weiße Bohnen- und Matcha-Füllung).",
+          "price": "7,00 €"
+        },
+        {
+          "name": "Schwarzer Sesam Käsekuchen",
+          "description": "Cremig gebackener Käsekuchen mit dunklem Sesamboden.",
+          "price": "7,50 €"
+        }
+      ]
+    }
+  ],
+  "opening_hours": {
+    "heading": "Öffnungszeiten",
+    "schedule": [
+      {
+        "days": "Montag – Freitag",
+        "hours": "09:00 – 18:00"
+      },
+      {
+        "days": "Samstag",
+        "hours": "10:00 – 19:00"
+      },
+      {
+        "days": "Sonntag",
+        "hours": "10:00 – 17:00"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "images/matcha-pouring.jpg",
+      "alt": "Matcha Latte Art – frisch gegossen"
+    },
+    {
+      "src": "images/cafe-interior.jpg",
+      "alt": "Minimalistisches Interieur mit natürlichem Licht"
+    },
+    {
+      "src": "images/matcha-dessert.jpg",
+      "alt": "Köstliche Matcha Biskuitrolle"
+    },
+    {
+      "src": "images/matcha-ceremony.jpg",
+      "alt": "Traditionelle Zubereitung mit Chasen"
+    },
+    {
+      "src": "images/matcha-mochi.jpg",
+      "alt": "Saisonale Daifuku Mochi"
+    },
+    {
+      "src": "images/cafe-atmosphere.jpg",
+      "alt": "Werkzeuge zur Matcha-Zubereitung"
+    },
+    {
+      "src": "images/matcha-latte.jpg",
+      "alt": "Perfekt geschlagener Matcha Latte"
+    },
+    {
+      "src": "images/matcha-storefront.jpg",
+      "alt": "Unser Café in Berlin"
+    }
+  ],
+  "contact": {
+    "heading": "Besuche uns",
+    "address_lines": [
+      "Torstraße 123",
+      "10119 Berlin",
+      "Deutschland"
+    ],
+    "phone": "+49 30 1234 5678",
+    "email": "hallo@matchamori.berlin",
+    "google_maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2427.6599793139366!2d13.397063415981773!3d52.53037807981503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851e44ee5bb65%3A0x6bba46cda50a8ebd!2sTorstra%C3%9Fe%2C%20Berlin!5e0!3m2!1sen!2sde!4v1689712123456!5m2!1sen!2sde"
+  }
+}
